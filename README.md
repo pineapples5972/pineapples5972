@@ -12,7 +12,7 @@ I love to code, work on linux, and make websites.
 - 🌐 My Website: https://neovoid.is-cool.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I loves Pineapples.
-- 
+
 ### My Skills
 ![My Skills](https://skillicons.dev/icons?i=linux,git,aws,github,docker,html,css,go)
 
@@ -23,11 +23,7 @@ I love to code, work on linux, and make websites.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pineapples5972&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pineapples5972&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pineapples5972&icon=0&color=0)](https://visitcount.itsvg.in)
