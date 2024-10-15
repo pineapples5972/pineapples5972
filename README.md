@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pineapples5972&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pineapples5972&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Hi there!** I am ✨ _Neo Void_ ✨ also known as `the Pineapple guy`.
 My Alias is `nvpie` Short for Neo Void Pineapple. (Yes, Very creative I know :p)
